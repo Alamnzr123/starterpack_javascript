@@ -1,0 +1,16 @@
+{
+  "name": "starterpack_javascript",
+  "version": "1.0.0",
+  "description": "Test 1 for PT AlXXX",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rahmad Alamsyah Nazaruddin",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
